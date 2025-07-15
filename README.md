@@ -8,3 +8,4 @@
 
 ## Donate in BTC Lightning
 ### [⚡](wordyplain88@walletofsatoshi.com)
+![](img/wordyplain88@walletofsatoshi.jpg)
