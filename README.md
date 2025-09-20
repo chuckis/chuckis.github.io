@@ -5,6 +5,8 @@
 - ## [Logseq Nostr Plugin](https://github.com/chuckis/screenplay)
 - ## [Jewelryworkshop App](https://github.com/chuckis/jewelryworkshop)
 - ## [Sinnerman RPG](https://github.com/chuckis/sinnermanionic)
+- ## 📚 [Mini Nostr Wiki MVP](https://chuckis.github.io/nostr-wiki-mvp/)
+    
 
 ## Donate in BTC Lightning
 ### [⚡](wordyplain88@walletofsatoshi.com)
